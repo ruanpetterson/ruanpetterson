@@ -11,7 +11,7 @@
 
 [![Twitter](https://img.shields.io/badge/@ruanpetterson_-%2300acee?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/ruanpetterson_)
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https:/hashnode.ruan.eng.br)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.ruan.eng.br)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruanpetterson)
 
